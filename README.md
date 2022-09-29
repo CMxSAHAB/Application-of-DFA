@@ -4,3 +4,4 @@
 ### A Finite State machine also-known-as Finite State Automata is a machine
 which consists of several states (which include initial, transition and final
 states)
+['QuestionImage'](https://github.com/CMxSAHAB/Application-of-DFA/blob/main/question.jpeg)
